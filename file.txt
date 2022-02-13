@@ -1,3 +1,7 @@
 asdf
 color = "red"
+<<<<<<< HEAD
 color = "blue"
+=======
+color = "black"
+>>>>>>> a9d4c9ac8e1d12d2224fb8854a219fa28da09111
