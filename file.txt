@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 asdf
-=======
-color = "blue"
->>>>>>> b45832f3d0648b4e703e8fbe703083ad2b4aec05
+color = "red"
